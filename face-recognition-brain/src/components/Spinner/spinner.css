@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 39, 83, 0.7);
+  position: fixed;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  color: #00BFFF;
+  z-index: 5;
+}
+.message {
+  padding-top: 50px;
+}
+.spinner {
+  padding-top: 30vh;
+}
